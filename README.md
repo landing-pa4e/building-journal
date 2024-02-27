@@ -1,2 +1,2 @@
-# building-journal-assortment
+# building-journal
 landing page
