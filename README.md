@@ -1,2 +1,1 @@
 # building-journal
-landing page
