@@ -5,6 +5,7 @@
 img {
   width: 49%;
   height: auto;
+  max-width: 100%;
 }
 .hidden {
   display: none;
