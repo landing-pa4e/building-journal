@@ -4,6 +4,7 @@
 }
 img {
   width: 49%;
+  height: auto;
 }
 .hidden {
   display: none;
