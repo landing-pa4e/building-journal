@@ -1,7 +1,7 @@
 {
   "name": "MIX 14.02 UPDATED",
   "short_name": "MIX 14.02",
-  "start_url": "./",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
@@ -18,5 +18,6 @@
     }
   ]
 }
+
 
 
