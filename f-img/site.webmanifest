@@ -1,6 +1,6 @@
 {
-    "name": "MIX 15.02 UPDATED",
-    "short_name": "MIX 15.02",
+    "name": "MIX 14.02 UPDATED",
+    "short_name": "MIX 14.02",
     "icons": [
         {
             "src": "/android-chrome-36x36.png",
@@ -17,6 +17,7 @@
     "background_color": "#ffffff",
     "display": "standalone"
 }
+
 
 
 
